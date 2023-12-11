@@ -1,0 +1,15 @@
+*{
+    margin: 0 auto;
+}
+header{
+    background-color: rgb(188, 255, 101);
+    width: 50%;
+    height: 45px;
+    border: 4px solid rgb(0, 0, 0);
+    text-align: center;
+
+}
+
+h1{
+    color: rgb(223, 133, 30);
+}
